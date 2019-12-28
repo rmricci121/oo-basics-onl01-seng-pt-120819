@@ -7,7 +7,7 @@ class Shoe
     @brand = brand
   end
 
-  def cobble
+  def cobble(@condition)
     if @condition == "old" 
       puts "New"
     else
