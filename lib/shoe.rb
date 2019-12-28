@@ -11,7 +11,7 @@ class Shoe
     if condition == "new" 
     puts "Your shoe is as good as new!"
   elsif
-    new
+    "new"
     end
   end
 
